@@ -1,3 +1,2 @@
 flask
 nltk
-pip install --upgrade pip
